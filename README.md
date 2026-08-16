@@ -1,112 +1,156 @@
-# 👋 Hey, I'm Prince Sharma
-
-### 🚀 B.Tech CSE (AI & DS) Student | Java • DSA • Full Stack
-
-> *Building skills today that I'll be proud of tomorrow.*
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 B.Tech CSE — **Artificial Intelligence & Data Science**
-* 💻 Currently focused on **Java & Data Structures & Algorithms**
-* 🌐 Learning **Full Stack Web Development**
-* 🗄️ Exploring **SQL & DBMS**
-* 🐍 Previously worked with **Python & C**
-* 🧠 Solving problems on **LeetCode**
-* 🐙 Building projects and maintaining my work on **GitHub**
-* 🎯 Goal: Become a strong **Software Developer**
-
----
-
-## ⚡ Tech Stack
+# 🖤 PRINCE SHARMA
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,mysql,git,github,vscode,idea" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Welcome%20to%20Prince's%20GitHub&fontColor=ffffff&fontSize=30&fontAlignY=40&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <i>Code. Learn. Build. Repeat.</i>
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## 𓆩 About Me 𓆪
 
 ```text
-DSA with Java        ███████████████░░░  80%
-Java                 █████████████████░  90%
-Web Development      ██████████░░░░░░░░  55%
-SQL / DBMS           ███████████░░░░░░░  60%
-Git & GitHub         ████████████████░░  85%
+👨‍💻  B.Tech CSE — Artificial Intelligence & Data Science
+
+⚡  Currently focused on Java & DSA
+🌐  Learning Full Stack Web Development
+🗄️  Learning SQL & DBMS
+🐙  Git & GitHub enthusiast
+🧩  Solving problems on LeetCode
+🚀  Building projects and improving every day
 ```
 
 ---
 
-## 🔥 Coding Journey
+## 𓆩 Technologies 𓆪
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princeshrmaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeshrmaa&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,mysql,git,github,vscode,idea&theme=dark" />
+
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 𓆩 Current Focus 𓆪
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princeshrmaa&theme=tokyo-night&hide_border=true" width="95%"/>
+
+`JAVA` ───── `DSA` ───── `LEETCODE` ───── `FULL STACK` ───── `SQL`
+
 </p>
-
----
-
-## 🧩 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://leetcard.jacoblin.cool/princeshrmaa?theme=dark&font=baloo&ext=heatmap" width="500"/>
-  </a>
-</p>
-
----
-
-## 🚀 What I'm Working On
 
 ```text
-📌 Mastering DSA
-📌 Solving LeetCode problems
-📌 Learning Full Stack Development
-📌 Improving Java & OOP concepts
-📌 Building projects
-📌 Growing my GitHub consistently
+        ████████████████████████████████████████
+
+        Java & OOP             ██████████████████░░
+        DSA                    ███████████████░░░░░
+        LeetCode               ████████████████░░░░
+        Web Development        ███████████░░░░░░░░░
+        SQL / DBMS              ████████████░░░░░░░
+        Git & GitHub            █████████████████░░░
+
+        ████████████████████████████████████████
 ```
 
 ---
 
-## 📈 My Goal
+## 𓆩 GitHub Statistics 𓆪
 
-> **Learn → Build → Break → Debug → Repeat.**
+<p align="center">
 
-I'm currently focused on becoming better at problem solving,
-development, and writing cleaner code every day.
+<img src="https://github-readme-stats.vercel.app/api?username=princeshrmaa&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princeshrmaa&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="180"/>
+
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 𓆩 Contribution Graph 𓆪
 
 <p align="center">
-  <a href="https://github.com/princeshrmaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=princeshrmaa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</p>
+
+---
+
+## 𓆩 LeetCode 𓆪
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/princeshrmaa?theme=dark&font=Baloo&ext=heatmap" width="500"/>
+
+</p>
+
+---
+
+## 𓆩 Coding Philosophy 𓆪
+
+<p align="center">
+
+```text
+        "First make it work.
+         Then make it clean.
+         Then make it better."
+
+                    — repeat.
+```
+
+</p>
+
+---
+
+## 𓆩 What I'm Building 𓆪
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   ⚔  DSA with Java                          │
+│   ⚔  Full Stack Development                 │
+│   ⚔  Personal Projects                      │
+│   ⚔  LeetCode Problem Solving               │
+│   ⚔  GitHub Open Source Journey             │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## 𓆩 Connect 𓆪
+
+<p align="center">
+
+<a href="https://github.com/princeshrmaa">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princeshrmaa&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=princeshrmaa&label=PROFILE%20VIEWS&color=000000&style=for-the-badge"/>
+
 </p>
 
-<h3 align="center">
-  ⭐ Thanks for visiting my profile!
-</h3>
+<p align="center">
+  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
+  <br>
+  <i>Thanks for visiting.</i>
+  <br>
+  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
+</p>
+
 
 
