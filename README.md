@@ -1,30 +1,112 @@
-<h1 align="center">Hi 👋, I'm Prince sharma</h1>
-<h3 align="center">Aspiring Software Engineer | Java • DSA • Full Stack</h3>
+# 👋 Hey, I'm Prince Sharma
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princeshrmaa&label=Profile%20views&color=0e75b6&style=flat" alt="princeshrmaa" /> </p>
+### 🚀 B.Tech CSE (AI & DS) Student | Java • DSA • Full Stack
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princeshrmaa" alt="princeshrmaa" /></a> </p>
+> *Building skills today that I'll be proud of tomorrow.*
 
-- 🌱 I’m currently learning **DSA with Java, Full Stack Web Development, and building projects to strengthen my development skills.**
+---
 
-- 💬 Ask me about **Java, DSA, LeetCode, Git & GitHub, or Web Development**
+## 🧑‍💻 About Me
 
-- 📫 How to reach me **princesharma7247@gmail.com**
+* 🎓 B.Tech CSE — **Artificial Intelligence & Data Science**
+* 💻 Currently focused on **Java & Data Structures & Algorithms**
+* 🌐 Learning **Full Stack Web Development**
+* 🗄️ Exploring **SQL & DBMS**
+* 🐍 Previously worked with **Python & C**
+* 🧠 Solving problems on **LeetCode**
+* 🐙 Building projects and maintaining my work on **GitHub**
+* 🎯 Goal: Become a strong **Software Developer**
 
-- ⚡ Fun fact **I debug my code by staring at it until it gets intimidated.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/princeshrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princeshrma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/princeshrma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="princeshrma" height="30" width="40" /></a>
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,mysql,git,github,vscode,idea" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princeshrmaa&show_icons=true&locale=en&layout=compact" alt="princeshrmaa" /></p>
+## 🧠 Currently Learning
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princeshrmaa&show_icons=true&locale=en" alt="princeshrmaa" /></p>
+```text
+DSA with Java        ███████████████░░░  80%
+Java                 █████████████████░  90%
+Web Development      ██████████░░░░░░░░  55%
+SQL / DBMS           ███████████░░░░░░░  60%
+Git & GitHub         ████████████████░░  85%
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princeshrmaa&" alt="princeshrmaa" /></p>
+---
+
+## 🔥 Coding Journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princeshrmaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeshrmaa&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princeshrmaa&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://leetcard.jacoblin.cool/princeshrmaa?theme=dark&font=baloo&ext=heatmap" width="500"/>
+  </a>
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+```text
+📌 Mastering DSA
+📌 Solving LeetCode problems
+📌 Learning Full Stack Development
+📌 Improving Java & OOP concepts
+📌 Building projects
+📌 Growing my GitHub consistently
+```
+
+---
+
+## 📈 My Goal
+
+> **Learn → Build → Break → Debug → Repeat.**
+
+I'm currently focused on becoming better at problem solving,
+development, and writing cleaner code every day.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/princeshrmaa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=princeshrmaa&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+<h3 align="center">
+  ⭐ Thanks for visiting my profile!
+</h3>
+
 
