@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIzMDAiIHZpZXdCb3g9IjAgMCAxMjAwIDMwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic2t5IiB4MT0iMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNTA2MGEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1NSUiIHN0b3AtY29sb3I9IiMwZDExMTciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMTYxYjIyIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJtdG5CYWNrIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxZjI5MzciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMGQxMTE3Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJtdG5Gcm9udCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMTExODI3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzA1MDYwYSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0ibW9vbiIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNTAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2U2ZmJmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iIzdkZDhlOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMGY1ZmYiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CgogIDxyZWN0IHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0idXJsKCNza3kpIi8+CgogIDwhLS0gc3RhcnMgLS0+CiAgPGcgZmlsbD0iI2ZmZmZmZiI+CiAgICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjQwIiByPSIxLjQiIG9wYWNpdHk9IjAuOCIvPgogICAgPGNpcmNsZSBjeD0iMTQwIiBjeT0iNzAiIHI9IjEiIG9wYWNpdHk9IjAuNSIvPgogICAgPGNpcmNsZSBjeD0iMjIwIiBjeT0iMzAiIHI9IjEuNiIgb3BhY2l0eT0iMC43Ii8+CiAgICA8Y2lyY2xlIGN4PSIzMjAiIGN5PSI1NSIgcj0iMSIgb3BhY2l0eT0iMC42Ii8+CiAgICA8Y2lyY2xlIGN4PSI0MTAiIGN5PSIyMCIgcj0iMS4yIiBvcGFjaXR5PSIwLjkiLz4KICAgIDxjaXJjbGUgY3g9IjUwMCIgY3k9IjYwIiByPSIxIiBvcGFjaXR5PSIwLjUiLz4KICAgIDxjaXJjbGUgY3g9IjY0MCIgY3k9IjM1IiByPSIxLjUiIG9wYWNpdHk9IjAuOCIvPgogICAgPGNpcmNsZSBjeD0iNzYwIiBjeT0iMjUiIHI9IjEiIG9wYWNpdHk9IjAuNiIvPgogICAgPGNpcmNsZSBjeD0iODUwIiBjeT0iNTAiIHI9IjEuMyIgb3BhY2l0eT0iMC43Ii8+CiAgICA8Y2lyY2xlIGN4PSI5NDAiIGN5PSIzMCIgcj0iMSIgb3BhY2l0eT0iMC41Ii8+CiAgICA8Y2lyY2xlIGN4PSIxMDIwIiBjeT0iNjUiIHI9IjEuNCIgb3BhY2l0eT0iMC44Ii8+CiAgICA8Y2lyY2xlIGN4PSIxMTAwIiBjeT0iNDAiIHI9IjEiIG9wYWNpdHk9IjAuNiIvPgogICAgPGNpcmNsZSBjeD0iMTE2MCIgY3k9Ijc1IiByPSIxLjIiIG9wYWNpdHk9IjAuNyIvPgogICAgPGNpcmNsZSBjeD0iMzAiIGN5PSIxMDAiIHI9IjEiIG9wYWNpdHk9IjAuNCIvPgogICAgPGNpcmNsZSBjeD0iOTgwIiBjeT0iOTAiIHI9IjEiIG9wYWNpdHk9IjAuNSIvPgogIDwvZz4KCiAgPCEtLSBtb29uIGdsb3cgLS0+CiAgPGNpcmNsZSBjeD0iMTAwMCIgY3k9IjcwIiByPSI3MCIgZmlsbD0idXJsKCNtb29uKSIgb3BhY2l0eT0iMC4zNSIvPgogIDxjaXJjbGUgY3g9IjEwMDAiIGN5PSI3MCIgcj0iMjYiIGZpbGw9IiNkZmZjZmYiLz4KCiAgPCEtLSBiYWNrIG1vdW50YWluIHJhbmdlIC0tPgogIDxwYXRoIGQ9Ik0wLDIzMCBMMTAwLDE1MCBMMjAwLDIxMCBMMzAwLDEyMCBMNDAwLDE5MCBMNTIwLDExMCBMNjQwLDIwMCBMNzYwLDE0MCBMODgwLDIwNSBMMTAwMCwxMzAgTDExMDAsMTk1IEwxMjAwLDE1MCBMMTIwMCwzMDAgTDAsMzAwIFoiIGZpbGw9InVybCgjbXRuQmFjaykiIG9wYWNpdHk9IjAuODUiLz4KCiAgPCEtLSBmcm9udCBtb3VudGFpbiByYW5nZSAtLT4KICA8cGF0aCBkPSJNMCwyNjAgTDEyMCwxOTAgTDI0MCwyNTAgTDM2MCwxNzAgTDQ4MCwyNDAgTDYwMCwxODAgTDcyMCwyNDUgTDg0MCwxNzUgTDk2MCwyMzUgTDEwODAsMTg1IEwxMjAwLDIzMCBMMTIwMCwzMDAgTDAsMzAwIFoiIGZpbGw9InVybCgjbXRuRnJvbnQpIi8+CgogIDwhLS0gdGV4dCAtLT4KICA8dGV4dCB4PSI2MDAiIHk9IjE1MCIgZm9udC1mYW1pbHk9IlNlZ29lIFVJLCBWZXJkYW5hLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjQyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjMDBmNWZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+UHJpbmNlIFNoYXJtYTwvdGV4dD4KICA8dGV4dCB4PSI2MDAiIHk9IjE4MiIgZm9udC1mYW1pbHk9IlNlZ29lIFVJLCBWZXJkYW5hLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE3IiBmaWxsPSIjOTRhM2I4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMSI+U0RFIEFzcGlyYW50IMK3IEFJICZhbXA7IERhdGEgU2NpZW5jZSDCtyBHTEEgVW5pdmVyc2l0eTwvdGV4dD4KPC9zdmc+Cg==" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2937&height=200&section=header&text=Prince%20Sharma&fontSize=45&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=SDE%20Aspirant%20%7C%20AI%20%26%20Data%20Science%20%40%20GLA%20University&descAlignY=58&descSize=16&descColor=94A3B8" width="100%"/>
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00F5FF)](https://linkedin.com/in/princeshrma)
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=00F5FF)](https://github.com/princeshrmaa)
@@ -15,6 +15,50 @@
 ### 📌 About
 
 Hey, I'm **Prince** — a 2nd-year B.Tech student in **AI & Data Science** at GLA University, Mathura. Right now I'm deep in Data Structures & Algorithms (Java) and building real projects with the MERN stack. Long-term target: an SDE role at a product-based company.
+<br/>
 
+### 🛠️ Technologies
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,js,py,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
+</div>
 
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=princeshrmaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=94A3B8&ring_color=00F5FF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princeshrmaa&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=princeshrmaa&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true" width="95%"/>
+</div>
+
+<br/>
+
+### 🚀 Currently Building
+
+| Project | Stack | Status |
+|---|---|---|
+| GLA Student Portal | HTML/CSS/JS | UI built, backend pending |
+| Age Calculator | HTML/CSS/JS | Deployed |
+| DSA in Java | Java, LeetCode | 200+ solved, ongoing |
+| Hackathon Project | TBD (team of 3) | Late August |
+
+<br/>
+
+### 🎯 2nd Year Targets
+
+- [x] Cross 200 self-solved LeetCode problems
+- [ ] 600+ genuinely self-solved LeetCode problems
+- [ ] Ship 2–3 real, deployed MERN projects
+- [ ] Maintain 8.5+ CPI
+- [ ] Land a paid SDE internship
+
+<br/>
+
+<div align="center">
+<sub>Consistency over motivation. Execution over planning.</sub>
+</div>
