@@ -17,7 +17,7 @@ Currently focused on landing a paid SDE internship by end of 2nd year.
 
 ## 🚀 What I'm up to
 
-- 🧠 Solved **225+ problems on LeetCode**, DSA in **Java**
+- 🧠 Solved **230+ problems on LeetCode**, DSA in **Java**
 - 🌐 Learning the **MERN stack** — building real projects as I go
 - 🎯 Targeting an **SDE internship** by end of 2nd year, long-term aiming for a product-based SDE role
 - 📚 Picking up **SQL, DBMS, OOP** through college coursework alongside self-study
