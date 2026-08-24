@@ -17,7 +17,7 @@ Currently focused on landing a paid SDE internship by end of 2nd year.
 
 ## 🚀 What I'm up to
 
-- 🧠 Solved **230+ problems on LeetCode**, DSA in **Java**
+- 🧠 Solved **235+ problems on LeetCode**, DSA in **Java**
 - 🌐 Learning the **MERN stack** — building real projects as I go
 - 🎯 Targeting an **SDE internship** by end of 2nd year, long-term aiming for a product-based SDE role
 - 📚 Picking up **SQL, DBMS, OOP** through college coursework alongside self-study
@@ -44,10 +44,6 @@ Currently focused on landing a paid SDE internship by end of 2nd year.
 > 🚧 Currently building — first MERN project in progress. This section updates as soon as it ships.
 
 ---
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=princeshrmaa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
 
 ---
 
