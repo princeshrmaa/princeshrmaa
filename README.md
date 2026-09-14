@@ -15,7 +15,7 @@
 ### 🌌 MISSION CONTROL
 
 **B.Tech CSE — AI & Data Science**
-**GLA University · Class of 2029**
+**GLA University · 2029**
 
 *Exploring the universe of software engineering, one problem at a time.*
 
