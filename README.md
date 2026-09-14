@@ -1,118 +1,52 @@
 <div align="center">
 
-# `PRINCE SHARMA`
-
-### Aspiring Software Engineer | DSA | Full Stack Developer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:000000&height=180&section=header&text=Welcome%20to%20my%20Universe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=230&section=header&text=PRINCE%20SHARMA&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=ASPIRING%20SOFTWARE%20ENGINEER%20%7C%20DSA%20%7C%20FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=65&animation=fadeIn"/>
 
 </div>
 
----
-
 <div align="center">
 
-### 🌌 MISSION CONTROL
-
-**B.Tech CSE — AI & Data Science**
-**GLA University · Class of 2029**
-
-*Exploring the universe of software engineering, one problem at a time.*
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Solving+DSA+problems+every+day;Learning+Full+Stack+Development;Building+towards+Software+Engineering;Exploring+Python+%26+Data+Libraries" />
-
-</div>
-
----
-
-## 🪐 ABOUT ME
-
-I'm **Prince Sharma**, a Computer Science student focused on becoming a strong Software Engineer.
-
-My current journey revolves around three areas:
-
-> **DSA** → building strong problem-solving fundamentals
-> **Full Stack Development** → turning ideas into real applications
-> **Computer Science** → strengthening the foundations behind software
-
-Currently learning and improving every day through consistent practice.
-
----
-
-## 🌌 MY DEVELOPER UNIVERSE
-
-<div align="center">
-
-| 🪐 Planet                | Mission                      |
-| ------------------------ | ---------------------------- |
-| 🧠 **DSA**               | Problem solving & algorithms |
-| 🌐 **MERN Stack**        | Full Stack Development       |
-| 🐍 **Python**            | Programming & data work      |
-| 🔢 **NumPy**             | Numerical computing          |
-| 🐼 **Pandas**            | Data manipulation & analysis |
-| 🗄️ **DBMS**             | Database fundamentals        |
-| ☕ **OOP**                | Object-oriented programming  |
-| 💻 **Operating Systems** | Core CS fundamentals         |
-| 🌍 **Computer Networks** | Networking fundamentals      |
-
-</div>
-
----
-
-## 🚀 TECHNOLOGY ORBIT
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,nodejs,express,mongodb,mysql,numpy,pandas,git,github,vscode&perline=5" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-`JAVA` · `C` · `PYTHON` · `HTML` · `CSS` · `JAVASCRIPT`
-`MERN` · `MYSQL` · `NUMPY` · `PANDAS` · `GIT` · `GITHUB`
-
-</div>
-
----
-
-## 🧠 DSA COMMAND CENTER
-
-<div align="center">
-
-### `295+` LeetCode Problems Solved
-
-<img src="https://leetcard.jacoblin.cool/princeshrma?theme=dark&font=Baloo&ext=heatmap" width="500"/>
-
-</div>
-
-<br>
-
-<div align="center">
+<a href="https://www.linkedin.com/in/princeshrma/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+</a>
 
 <a href="https://leetcode.com/u/princeshrma/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://github.com/princeshrmaa">
+<img src="https://img.shields.io/badge/GitHub-Profile-161b22?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 </div>
 
+<br>
+
 ---
 
-## 📊 GITHUB TELEMETRY
+## ◈ About Me
+
+I'm **Prince Sharma**, a B.Tech Computer Science student specializing in **AI & Data Science at GLA University**.
+
+I'm currently in my **2nd year**, focused on building a strong foundation for a career in Software Engineering.
+
+My journey currently revolves around:
+
+- Problem solving with **DSA**
+- Full Stack Development with the **MERN stack**
+- Python and its data libraries
+- Strengthening **DBMS, OOP, Operating Systems & Computer Networks**
+- Consistent coding and continuous improvement
+
+> **Learning every day. Building step by step.**
+
+---
+
+## ◈ Technologies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=princeshrmaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeshrmaa&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,nodejs,express,mongodb,mysql,numpy,pandas,git,github,vscode&perline=5"/>
 
 </div>
 
@@ -120,13 +54,83 @@ Currently learning and improving every day through consistent practice.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=princeshrmaa&theme=dark&hide_border=true" width="600"/>
+`Java` · `C` · `Python` · `HTML` · `CSS` · `JavaScript`
+
+`MERN` · `MySQL` · `NumPy` · `Pandas` · `Git` · `GitHub`
 
 </div>
 
 ---
 
-## 🛰️ CONTRIBUTION ACTIVITY
+## ◈ Current Journey
+
+<div align="center">
+
+| Area | Status |
+|:---:|:---:|
+| 🧠 DSA | **Actively Solving** |
+| 🌐 MERN Stack | **Currently Learning** |
+| 🐍 Python | **Learning & Practicing** |
+| 🔢 NumPy | **Learning** |
+| 🐼 Pandas | **Learning** |
+| 🗄️ DBMS | **Strengthening Fundamentals** |
+| ☕ OOP | **Strengthening Fundamentals** |
+| 💻 Operating Systems | **Learning** |
+| 🌍 Computer Networks | **Learning** |
+
+</div>
+
+---
+
+## ◈ LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/princeshrma?theme=dark&font=Baloo&ext=heatmap"/>
+
+<br><br>
+
+<a href="https://leetcode.com/u/princeshrma/">
+
+<img src="https://img.shields.io/badge/295%2B%20Problems%20Solved-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+
+</a>
+
+</div>
+
+> My LeetCode progress is continuously growing through daily problem solving.
+
+---
+
+## ◈ GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=princeshrmaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeshrmaa&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=princeshrmaa&theme=dark&hide_border=true" width="650"/>
+
+</div>
+
+---
+
+## ◈ Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=princeshrmaa&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Prince%20Sharma%20-%20Contribution%20Activity" width="100%"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -136,75 +140,46 @@ Currently learning and improving every day through consistent practice.
 
 ---
 
-## 🚀 MISSION OBJECTIVES
+## ◈ Mission Objectives
 
 <div align="center">
 
-### `CURRENT STATUS`
-
-🟢 **Learning**
-🟢 **Building**
-🟢 **Solving**
-🟢 **Improving**
+### SOFTWARE ENGINEERING — IN PROGRESS
 
 </div>
 
-<br>
-
-* 🎯 Become a highly skilled Software Engineer
-* 🧠 Strengthen DSA and problem-solving
-* 🌐 Become proficient in Full Stack Development
-* 🐍 Improve Python and data-library knowledge
-* 📚 Build strong CS fundamentals
-* 🚀 Create meaningful real-world projects
-* 💼 Prepare for high-quality SDE internships
+- Build strong **DSA & problem-solving** skills
+- Become proficient in **Full Stack Development**
+- Strengthen **Core Computer Science**
+- Improve **Python & Data Science libraries**
+- Build meaningful real-world projects
+- Prepare for **SDE internships**
+- Keep improving through consistent practice
 
 ---
 
-## 🌑 CURRENTLY IN ORBIT
+## ◈ Currently Building
 
 <div align="center">
 
 ```text
-                    ✦
-             ✦             ✦
-
-        DSA ─────────────── MERN
-          \                   /
-           \                 /
-            \    PRINCE     /
-             \             /
-              \           /
-             PYTHON ─ DBMS
-
-          ✦               ✦
-                ✦
-```
-
-**Learning → Building → Solving → Repeating**
-
-</div>
-
----
-
-## 🌐 ESTABLISH CONNECTION
-
-<div align="center">
-
-<a href="https://github.com/princeshrmaa">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/princeshrma/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-<a href="https://www.linkedin.com/in/princeshrma/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-</div>
-
+                    ┌─────────────────────┐
+                    │   LEARNING PHASE    │
+                    └──────────┬──────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ↓                 ↓                 ↓
+            DSA              MERN             PYTHON
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               ↓
+                     CORE CS FUNDAMENTALS
+                               │
+                               ↓
+                      REAL-WORLD PROJECTS
+                               │
+                               ↓
+                       SOFTWARE ENGINEER
 ---
 
 <div align="center">
