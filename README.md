@@ -4,7 +4,7 @@
 
 ### Aspiring Software Engineer | DSA | Full Stack Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:000000&height=180&section=header&text=Welcome%20to%20my%20Universe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:000000&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </div>
 
