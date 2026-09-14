@@ -1,66 +1,75 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=1600&q=90" width="100%" height="220">
+# `PRINCE SHARMA`
 
-<br>
+### Aspiring Software Engineer | DSA | Full Stack Developer
 
-<a href="https://www.linkedin.com/in/princeshrma/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/princeshrma/">
-<img src="https://img.shields.io/badge/LEETCODE-111111?style=flat-square&logo=leetcode&logoColor=FFA116">
-</a>
-&nbsp;
-<a href="https://github.com/princeshrmaa">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:000000&height=180&section=header&text=Welcome%20to%20my%20Universe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌌 MISSION CONTROL
+
+**B.Tech CSE — AI & Data Science**
+**GLA University · Class of 2029**
+
+*Exploring the universe of software engineering, one problem at a time.*
 
 </div>
 
 <br>
 
-<h3 align="center">♙ About me</h3>
+<div align="center">
 
-<hr>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Solving+DSA+problems+every+day;Learning+Full+Stack+Development;Building+towards+Software+Engineering;Exploring+Python+%26+Data+Libraries" />
 
-<table>
-<tr>
-<td width="75%">
+</div>
 
-Hello! I'm **Prince Sharma**, a **B.Tech CSE (AI & Data Science)** student at **GLA University**, currently in my **2nd year**.
+---
 
-I'm an aspiring Software Engineer focused on **DSA, Full Stack Development, Python and its libraries**. I'm also strengthening my Core Computer Science fundamentals alongside consistent problem solving.
+## 🪐 ABOUT ME
 
-<br>
+I'm **Prince Sharma**, a Computer Science student focused on becoming a strong Software Engineer.
 
-Currently focused on:
+My current journey revolves around three areas:
 
-**DSA · MERN · Python · NumPy · Pandas · DBMS · OOP · OS · CN**
+> **DSA** → building strong problem-solving fundamentals
+> **Full Stack Development** → turning ideas into real applications
+> **Computer Science** → strengthening the foundations behind software
 
-<br><br>
+Currently learning and improving every day through consistent practice.
 
-*Small steps every day.*
+---
 
-</td>
-
-<td width="25%" align="center">
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo/loop.gif" width="150">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<h3 align="center">⚙ Technologies</h3>
-
-<hr>
+## 🌌 MY DEVELOPER UNIVERSE
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,nodejs,express,mongodb,mysql,numpy,pandas,git,github,vscode&perline=5">
+| 🪐 Planet                | Mission                      |
+| ------------------------ | ---------------------------- |
+| 🧠 **DSA**               | Problem solving & algorithms |
+| 🌐 **MERN Stack**        | Full Stack Development       |
+| 🐍 **Python**            | Programming & data work      |
+| 🔢 **NumPy**             | Numerical computing          |
+| 🐼 **Pandas**            | Data manipulation & analysis |
+| 🗄️ **DBMS**             | Database fundamentals        |
+| ☕ **OOP**                | Object-oriented programming  |
+| 💻 **Operating Systems** | Core CS fundamentals         |
+| 🌍 **Computer Networks** | Networking fundamentals      |
+
+</div>
+
+---
+
+## 🚀 TECHNOLOGY ORBIT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,nodejs,express,mongodb,mysql,numpy,pandas,git,github,vscode&perline=5" />
 
 </div>
 
@@ -69,121 +78,139 @@ Currently focused on:
 <div align="center">
 
 `JAVA` · `C` · `PYTHON` · `HTML` · `CSS` · `JAVASCRIPT`
-
 `MERN` · `MYSQL` · `NUMPY` · `PANDAS` · `GIT` · `GITHUB`
 
 </div>
 
-<br>
+---
 
-<h3 align="center">◈ Statistics</h3>
-
-<hr>
-
-<table align="center">
-<tr>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=princeshrmaa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&include_all_commits=true" width="450">
-
-</td>
-
-<td>
-
-<img src="https://leetcard.jacoblin.cool/princeshrma?theme=dark&ext=heatmap" width="450">
-
-</td>
-
-</tr>
-</table>
-
-<br>
+## 🧠 DSA COMMAND CENTER
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=princeshrmaa&theme=dark&hide_border=true&background=0d1117" width="700">
+### `295+` LeetCode Problems Solved
 
-</div>
-
-<br>
-
-<h3 align="center">⌁ Contribution Graph</h3>
-
-<hr>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=princeshrmaa&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=false&hide_border=true&custom_title=Prince%20Sharma%27s%20Contribution%20Graph" width="100%">
+<img src="https://leetcard.jacoblin.cool/princeshrma?theme=dark&font=Baloo&ext=heatmap" width="500"/>
 
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<b>295+ LeetCode Problems Solved</b>
-
-<br><br>
 
 <a href="https://leetcode.com/u/princeshrma/">
-
-<img src="https://img.shields.io/badge/VIEW%20PROFILE-111111?style=flat-square&logo=leetcode&logoColor=FFA116">
-
+<img src="https://img.shields.io/badge/LeetCode-Profile-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 </div>
 
-<br>
+---
 
-<h3 align="center">◈ Current Journey</h3>
-
-<hr>
+## 📊 GITHUB TELEMETRY
 
 <div align="center">
 
-`DSA` &nbsp; `MERN STACK` &nbsp; `PYTHON` &nbsp; `NUMPY` &nbsp; `PANDAS`
+<img src="https://github-readme-stats.vercel.app/api?username=princeshrmaa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
 
-<br>
-
-`DBMS` &nbsp; `OOP` &nbsp; `OPERATING SYSTEMS` &nbsp; `COMPUTER NETWORKS`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeshrmaa&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
 </div>
 
 <br>
 
-<h3 align="center">◈ Connect with me</h3>
+<div align="center">
 
-<hr>
+<img src="https://streak-stats.demolab.com?user=princeshrmaa&theme=dark&hide_border=true" width="600"/>
+
+</div>
+
+---
+
+## 🛰️ CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 MISSION OBJECTIVES
+
+<div align="center">
+
+### `CURRENT STATUS`
+
+🟢 **Learning**
+🟢 **Building**
+🟢 **Solving**
+🟢 **Improving**
+
+</div>
+
+<br>
+
+* 🎯 Become a highly skilled Software Engineer
+* 🧠 Strengthen DSA and problem-solving
+* 🌐 Become proficient in Full Stack Development
+* 🐍 Improve Python and data-library knowledge
+* 📚 Build strong CS fundamentals
+* 🚀 Create meaningful real-world projects
+* 💼 Prepare for high-quality SDE internships
+
+---
+
+## 🌑 CURRENTLY IN ORBIT
+
+<div align="center">
+
+```text
+                    ✦
+             ✦             ✦
+
+        DSA ─────────────── MERN
+          \                   /
+           \                 /
+            \    PRINCE     /
+             \             /
+              \           /
+             PYTHON ─ DBMS
+
+          ✦               ✦
+                ✦
+```
+
+**Learning → Building → Solving → Repeating**
+
+</div>
+
+---
+
+## 🌐 ESTABLISH CONNECTION
 
 <div align="center">
 
 <a href="https://github.com/princeshrmaa">
-<img src="https://img.shields.io/badge/GitHub-princeshrmaa-111111?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/princeshrma/">
-<img src="https://img.shields.io/badge/LeetCode-princeshrma-111111?style=flat-square&logo=leetcode&logoColor=FFA116">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <a href="https://www.linkedin.com/in/princeshrma/">
-<img src="https://img.shields.io/badge/LinkedIn-princeshrma-111111?style=flat-square&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-`LEARN • BUILD • SOLVE • IMPROVE`
+### `THE JOURNEY HAS JUST BEGUN.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:050505&height=120&section=footer&animation=fadeIn"/>
 
 </div>
