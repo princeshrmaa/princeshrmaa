@@ -88,7 +88,7 @@ Currently learning and improving every day through consistent practice.
 
 <div align="center">
 
-### `315+` LeetCode Problems Solved
+### `320+` LeetCode Problems Solved
 
 <img src="https://leetcard.jacoblin.cool/princeshrma?theme=dark&font=Baloo&ext=heatmap" width="500"/>
 
